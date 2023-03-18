@@ -345,7 +345,7 @@ do
             Max = 2, Current = 0
         }
         --
-        Library.Theme.Logo = Utility.AddImage("HentaiHook/Assets/UI/Logo2.png", "https://i.imgur.com/2CjweZH.png")
+        Library.Theme.Logo = Utility.AddImage("HentaiHook/Assets/UI/Logo2.png", "https://i.imgur.com/sfkDfQb.png")
         --
         local WindowOutline = Utility.AddDrawing("Square", {
             Size = WindowSize,
